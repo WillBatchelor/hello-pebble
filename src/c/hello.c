@@ -14,4 +14,13 @@ void init () {
 
 void deinit() {
   text_layer_destroy(text_layer);
+  window_destroy(window);
+} 
+
+int main() {
+	init{};
+	app_event_loop();
+	deinit();
+	retuen 0;
 }
+
