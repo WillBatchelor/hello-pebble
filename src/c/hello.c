@@ -21,6 +21,6 @@ int main() {
 	init();
 	app_event_loop();
 	deinit();
-	returen 0;
+	return 0;
 }
 
