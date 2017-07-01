@@ -1,0 +1,21 @@
+{
+    "author": "batchelorwd8@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello-pebble",
+    "pebble": {
+        "displayName": "hello-pebble",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5f17e326-b0bd-4d57-be9e-d6498047b8b5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
