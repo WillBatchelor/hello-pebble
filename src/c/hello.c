@@ -21,6 +21,6 @@ int main() {
 	init();
 	app_event_loop();
 	deinit();
-	retuen 0;
+	returen 0;
 }
 
